@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>LENOVO </h1>
+
+    
+
+<Label>Full Name(required if registering)</Label>
+<input><br><br>
+
+    
+
+<Label>Profile Pic Url(optional)
+<input><br><br>
+
+<Label>Email id</Label>
+<input><br><br>
+
+
+<Label>Password</Label>
+<input><br><br>
+
+<input type ="Sign in"value="Sign in">
+   
+
+                        
+<input type="Guest login">
+
+</form>
+
+<br><br>
+<br><br>
+
+
+</body>
+</html>
+
